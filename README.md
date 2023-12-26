@@ -1,9 +1,8 @@
 ### Hi there, I'm Armin 👋
 ## 🔭 Skills
 - Languages: Java, Python, C, JavaScript, HTML, CSS, MATLAB
-- Libraries: React, jQuery, Processing, TesnorFlow
-- Frameworks: Express.js, Bootstrap, JUnit, DEAP
-- Technologies: Git, Postman, MongoDB, Google Apps Script, WordPress, Microsoft Office
+- Technologies: React, jQuery, Processing, TesnorFlow, Express.js, Bootstrap, JUnit, DEAP
+- Tools: Git, Postman, MongoDB, Google Apps Script, WordPress, Microsoft Office
 
 <!--
 **AMoinian2004/AMoinian2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
