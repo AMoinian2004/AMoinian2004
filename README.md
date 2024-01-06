@@ -1,4 +1,9 @@
 ### Hi there, I'm Armin 👋
+
+## 📌 My Information
+- 📫 How to reach me: amoinian3@gatech.edu
+- 😄 Pronouns: he/him
+- 📄[My Resume](https://drive.google.com/file/d/1J3qgLLugwveri_SqLRHfJYfR9XDOlx-8/view)
 ## 🔭 Skills
 - Languages: Java, Python, C++, C, JavaScript, HTML, CSS, XML, MATLAB
 - Technologies: React, Express.js, Axios, Processing, Bootstrap, JUnit, jQuery, DEAP, TensorFlow
