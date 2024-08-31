@@ -4,13 +4,13 @@ I am a Computer Science student at Georgia Tech with experience as a Software En
 
 ## Projects:
 **Flashcard Web**
-- Repository:
-- Demonstration Video:
+- Repository: github.com/AMoinian2004/FlashcardWeb-Refactored
+- Demonstration Video: tinyurl.com/Flashcard-Web
   
 **C++ Intelligence Suite**
-- Repository:
-- Demonstration Video:
+- Repository: github.com/AMoinian2004/Cpp-Intelligence-Suite
+- Demonstration Video: tinyurl.com/Cpp-Intel-Suite
   
 **Shroom Slayer**
-- Repository:
-- Demonstration Video:
+- Repository: github.com/husnajakeer/CS2340C_Team1
+- Demonstration Video: tinyurl.com/ShroomSlayer
