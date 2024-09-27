@@ -13,5 +13,5 @@ I am a Computer Science student at Georgia Tech with experience as a Software En
 - [Demonstration Video](https://tinyurl.com/Cpp-Intel-Suite)
 
 **Shroom Slayer**
-- [Repository](https://github.com/husnajakeer/CS2340C_Team1)
+- [Repository](https://github.com/AMoinian2004/CS2340C_Team1)
 - [Demonstration Video](https://tinyurl.com/ShroomSlayer)
