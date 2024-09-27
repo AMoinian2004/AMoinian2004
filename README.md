@@ -15,7 +15,3 @@ I am a Computer Science student at Georgia Tech with experience as a Software En
 **Shroom Slayer**
 - [Repository](https://github.com/AMoinian2004/CS2340C_Team1)
 - [Demonstration Video](https://tinyurl.com/ShroomSlayer)
-
-**Resume Vault**
-- [Repository](https://github.com/AMoinian2004/ResumeVault)
-- [Demonstration Video](https://www.youtube.com/watch?v=oMzpPyuAvvU)
