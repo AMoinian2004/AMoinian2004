@@ -18,6 +18,6 @@ I am a Computer Science student at Georgia Tech with experience as a Software En
 
 **Resume Vault**
 - [Repository](https://github.com/AMoinian2004/ResumeVault)
-- [Demonstration Video](https://www.youtube.com/watch?v=Hk4B-zTcbow)
+- [Demonstration Video](https://www.youtube.com/watch?v=orBTM3_xccM)
 
 
