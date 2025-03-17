@@ -9,4 +9,4 @@
 ###  Shroom Slayer | Java, XML, Android Studio
 - Mobile game where players navigate through various rooms, collecting power-ups and strategically defeating enemies, with the goal of reaching the final level.
 
-Email me at arminmoinian7@gmail.com if you want to learn more about these projects and the codebase.
+Email me at arminmoinian7@gmail.com if you want to learn more about the codebase for these projects or see a demonstration video.
